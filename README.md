@@ -3,8 +3,6 @@ Canny Edge Detection App (PyQt5 + OpenCV)
 Ứng dụng phát hiện biên ảnh sử dụng thuật toán Canny Edge Detection được xây dựng bằng Python, kết hợp thư viện OpenCV và PyQt5.
 
 👨‍💻 Author: Nguyễn Vũ Xuân Kiên
-📅 DOB: 17/02/2004
-📧 Email: kien1722004@gmail.com
 
 📌 Giới thiệu
 
